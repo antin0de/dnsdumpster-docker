@@ -1,0 +1,3 @@
+[submodule "dnsdumpster"]
+	path = dnsdumpster
+	url = https://github.com/nmmapper/dnsdumpster.git
