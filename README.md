@@ -6,7 +6,7 @@ Docker for nmmapper/dnsdumpster
 To use `dnsdumpster` Docker image, use the following command
 
 ```bash
-docker run ghcr.io/antin0de/dnsdumpster:latest -d yourdomain.com
+docker run --rm ghcr.io/antin0de/dnsdumpster:latest -d yourdomain.com
 ```
 
 ## Building
